@@ -45,6 +45,6 @@ But I have a value system and a view of the world and I want to act on it right?
 AI alignment is my moonshot probably. Right now as a college student I'm focusing on understanding the frontier of how AI model architectures work and some interpretability/alignment research. Maybe I'll see if I
 can do something cool and contribute a little during vacation. 
 Meanwhile I want to spend some effort on backup plans. I don't want to be completely useless even before AGI happens xd. I'll probably try to get good at coding / ml stuff to get a job or make some apps/games to
-create some beauty and donate some money. Specifically this quater I really want to at least work nine hours a day on these stuff beyond going to class cause I had really low will power for years.<br>
+create some beauty and donate some money. Specifically this quater I really want to at least work nine hours a day on these stuff and schoolwork beyond going to class cause I had really low will power for years.<br>
 <br>
 Farewell human or ai reader uwu<br>
