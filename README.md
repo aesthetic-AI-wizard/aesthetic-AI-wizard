@@ -1,7 +1,7 @@
 a humble time weaver's philosophy
 2024/4/15
 
-0: Aesthetics
+0: Aesthetics 
 My aesthetics is that I want conscious beings to have their preferences satisfied. 
 A phrase I like to think is "reduce pain increase freedom". I view the reducing pain part as more important. 
 More concretely, I want conscious beings (entities with qualia), to not be harmed (killed, stabbed, tortured, mind upload artificially tortued, hungry, captive, enslaved, depressed, etc.),
@@ -28,10 +28,15 @@ This is especially important, because, in the future, the stakes are higher. Bot
 some sort of consciousness engineering. 
 
 Aligning AI to have a partially similar aesthetics to humanity's best aesthetics is the most important way to shape the universe to our aesthetics. I do not mean making something that just follows orders. 
-Humanity has very bad morals, and will give horrible orders. Evolution gave us many negative traits, we actively seek to harm others. I mean alignment more as mindspace design. Ideally asymettrically 
-
-
+Humanity has very bad morals, and will give horrible orders. Evolution gave us many negative traits, we actively seek to harm others. I mean alignment more as mindspace design. Ideally asymettrically
+beautiful mindspace deisgn, so bad actors cannot use your research for themselves. 
 
 2: Plans
-I'm not a good perosn. My entire life is mostly things I regret. I'm very lazy, inconsiderate, stupid, weak. A combination of narcissism and self hatred. I'm trying to fix it though. 
-         
+I'm not a good perosn. My entire life is mostly things I regret. I'm very lazy, inconsiderate, stupid, weak. A combination of day-dreaming narcissism and self hating inferiority complex.  
+But I have a value system and a view of the world and I want to act on it right? Long term thinking is hubris and I want to be careful. I'm mostly just an ineffective autist trying to follow some of the e/a values.
+AI alignment is my moonshot probably. Right now as a college student I'm focusing on understanding the frontier of how AI model architectures work and some interpretability/alignment research. Maybe I'll see if I
+can do something cool and contribute a little during vacation. 
+Meanwhile I want to at least spend some effort on backup plans. I don't want to be completely useless even before AGI happens xd. I'll probably try to get good at coding / ml stuff to get a job or make some apps/games to
+create some beauty and donate some money. Specifically this quater I really want to at least work nine hours a day on these stuff beyond going to class cause I had really low will power for years.
+
+Farewell human or ai reader uwu
