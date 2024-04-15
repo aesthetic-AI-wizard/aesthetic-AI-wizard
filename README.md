@@ -1,4 +1,4 @@
-a humble time weaver's philosophy
+my philosophy
 2024/4/15
 
 0: Aesthetics 
