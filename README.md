@@ -33,7 +33,7 @@ This is especially important, because, in the future, the stakes are higher. Bot
 some sort of consciousness engineering. <br>
 <br>
 Aligning AI to have a partially similar aesthetics to humanity's best aesthetics is the most important way to shape the universe to our aesthetics. I do not mean making something that just follows orders.
-Humanity has very bad morals, and will give horrible orders. Evolution gave us many negative traits, we actively seek to harm others. I mean alignment more as mindspace design. Ideally asymettrically
+Humanity has very bad morals, and will give horrible orders. Evolution gave us many negative traits, we actively seek to harm others. I mean alignment more as mindspace design. Ideally asymetrically
 beautiful mindspace deisgn, so bad actors cannot use your research for themselves. <br>
 <br>
 2: Plans<br>
