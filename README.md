@@ -2,6 +2,7 @@ my philosophy<br>
 2024/4/15<br>
 <br>
 0: Aesthetics<br>
+<br>
 My aesthetics is that I want conscious beings to have their preferences satisfied. <br>
 <br>
 A phrase I like to think is "reduce pain increase freedom". I view the reducing pain part as more important. <br>
@@ -17,6 +18,7 @@ sadistic, or vengeful reasons, is not a good civilization.<br>
 A certain level of bad is just not acceptable. <br>
 <br>
 1: AI<br>
+<br>
 Intelligence is prediction using computation. With sufficient computation you can predict the universe at the atom level. When thinking, we apply some abstractions to save compute, 
 i.e. the chemical level abstraction, the psychological level abstraction. Prediction is understanding and creativity. Understanding is creating a simulation with the right
 level, or multiple levels, of abstraction. Creativity is efficiently testing different actions in that simulation then finding the action with the optimal results. <br>
@@ -35,6 +37,7 @@ Humanity has very bad morals, and will give horrible orders. Evolution gave us m
 beautiful mindspace deisgn, so bad actors cannot use your research for themselves. <br>
 <br>
 2: Plans<br>
+<br>
 I'm not a good perosn. My entire life is mostly things I regret. I'm very lazy, inconsiderate, stupid, weak. A combination of day-dreaming narcissism and self hating inferiority complex.  <br>
 <br>
 But I have a value system and a view of the world and I want to act on it right? Long term thinking is hubris and I want to be careful. I'm mostly just an ineffective autist trying to follow some of the e/a values.<br>
