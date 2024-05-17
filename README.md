@@ -38,7 +38,7 @@ beautiful mindspace deisgn, so bad actors cannot use your research for themselve
 <br>
 2: Plans<br>
 <br>
-I'm not a good perosn. My entire life is mostly things I regret. I'm very lazy, inconsiderate, stupid, weak. A combination of day-dreaming narcissism and self hating inferiority complex.  <br>
+I'm not a good person. My entire life is mostly things I regret. I'm very lazy, inconsiderate, stupid, weak. A combination of day-dreaming narcissism and self hating inferiority complex.  <br>
 <br>
 But I have a value system and a view of the world and I want to act on it right? Long term thinking is hubris and I want to be careful. I'm mostly just an ineffective autist trying to follow some of the e/a values.<br>
 <br>
